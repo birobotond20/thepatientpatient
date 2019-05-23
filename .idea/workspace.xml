@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2490e3f9-5aad-4440-8121-8e20889db1a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DictorsOfficeServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOfficeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOfficeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/doctorsOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOffice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOffice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOfficeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOfficeRepository.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -61,7 +55,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -75,11 +69,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOffice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+            <state relative-caret-position="51">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,7 +91,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DictorsOfficeServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOfficeServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
               <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
@@ -118,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOfficeRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
-              <caret line="6" column="83" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,10 +139,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/doctorsOffice.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/doctorsOfficeRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/doctorsOfficeService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOfficeRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DictorsOfficeServiceImpl.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOfficeRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOffice.java" />
       </list>
     </option>
@@ -284,17 +278,18 @@
       <option name="presentableId" value="Default" />
       <updated>1558603381264</updated>
       <workItem from="1558603386094" duration="1178000" />
-      <workItem from="1558605230533" duration="2749000" />
+      <workItem from="1558605230533" duration="3430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3927000" />
+    <option name="totallyTimeSpent" value="4608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25339368" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27828056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -306,7 +301,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.50706434" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.50706434" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -346,17 +341,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOfficeRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="6" column="83" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DictorsOfficeServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOfficeServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
@@ -370,20 +355,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOffice.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        <state relative-caret-position="60">
+          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOfficeRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOffice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="41" />
+        <state relative-caret-position="51">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

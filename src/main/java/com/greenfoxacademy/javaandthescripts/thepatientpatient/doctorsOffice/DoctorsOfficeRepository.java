@@ -5,4 +5,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface DoctorsOfficeRepository extends CrudRepository<DoctorsOffice, Long> {
+  DoctorsOffice findById(long id);
 }
