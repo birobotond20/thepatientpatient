@@ -1,9 +1,9 @@
-package com.greenfoxacademy.javaandthescripts.thepatientpatient.Service;
+package com.greenfoxacademy.javaandthescripts.thepatientpatient.service;
 
 import org.springframework.data.repository.CrudRepository;
-import org.springframework.stereotype.Service;
+import org.springframework.stereotype.Repository;
 
-@Service
+@Repository
 public interface ServiceRepository extends CrudRepository<Service, Long> {
   Service findById(long id);
 }

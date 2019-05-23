@@ -1,4 +1,4 @@
-package com.greenfoxacademy.javaandthescripts.thepatientpatient.Service;
+package com.greenfoxacademy.javaandthescripts.thepatientpatient.service;
 
 import org.springframework.stereotype.Service;
 
