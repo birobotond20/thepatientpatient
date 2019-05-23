@@ -56,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="41" />
+              <caret line="3" column="41" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -79,10 +79,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/Services.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/Service/Service.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="96">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -154,6 +154,8 @@
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/doctorsOffice/DoctorsOffice.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/Services.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/Service/Services.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/Service/Service.java" />
       </list>
     </option>
   </component>
@@ -203,6 +205,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="thepatientpatient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thepatientpatient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thepatientpatient" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="thepatientpatient" type="462c0819:PsiDirectoryNode" />
+              <item name="Service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thepatientpatient" type="b2602c69:ProjectViewProjectNode" />
@@ -284,11 +295,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4008000" />
+    <option name="totallyTimeSpent" value="4271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27828056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -373,14 +383,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="41" />
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/Services.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/greenfoxacademy/javaandthescripts/thepatientpatient/Service/Service.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="96">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
