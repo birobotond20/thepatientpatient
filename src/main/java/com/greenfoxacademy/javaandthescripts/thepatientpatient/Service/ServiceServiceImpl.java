@@ -1,4 +1,4 @@
 package com.greenfoxacademy.javaandthescripts.thepatientpatient.Service;
 
-public interface ServiceService {
+public class ServiceServiceImpl implements ServiceService {
 }
